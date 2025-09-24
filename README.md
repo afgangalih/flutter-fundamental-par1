@@ -1,16 +1,14 @@
-# hello_world
+# Praktikum Flutter Fundamental
 
-A new Flutter project.
+## Identitas
+- Nama : Afgan Galih FAA  
+- NIM  : 2341760004
 
-## Getting Started
+## Deskripsi
+Project ini merupakan hasil praktikum Flutter fundamental.  
+Aplikasi sederhana menampilkan identitas dan counter bawaan Flutter.
 
-This project is a starting point for a Flutter application.
+## Screenshot
+Berikut adalah tampilan akhir aplikasi:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Praktikum 3 - ![Screenshot](images/01.png) 
