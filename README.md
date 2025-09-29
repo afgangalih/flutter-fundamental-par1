@@ -11,6 +11,11 @@ Aplikasi sederhana menampilkan identitas dan counter bawaan Flutter.
 ## Screenshot
 Berikut adalah tampilan akhir aplikasi:
 
-Praktikum 3 - ![Screenshot](images/01.png) 
+Praktikum 3  ![Screenshot](images/01.png) 
 Praktikum 4 - Langkah 1 ![Screenshot](images/02.png)
 Praktikum 4 - Langkah 2 ![Screenshot](images/03.png)
+Praktikum 5 - Langkah 4 ![Screenshot](images/05_4_5.png)
+Praktikum 5 - Langkah 4.1 ![Screenshot](images/05_4.1_5.png)
+Praktikum 5 - Langkah 5 ![Screenshot](images/05_5_5.png)
+Praktikum 5 - Langkah 6 ![Screenshot](images/05_6_5.png)
+Praktikum 5 - Langkah 6.1 ![Screenshot](images/05_6.1_5.png)
